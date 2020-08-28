@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "name": "slate-collaborative",
   "version": "1.0",
   "description": "Slate collaborative plugin & microservice",
