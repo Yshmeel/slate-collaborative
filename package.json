@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "slate-collaborative",
   "description": "Slate collaborative plugin & microservice",
   "scripts": {
     "bootstrap": "lerna bootstrap",
